@@ -1,0 +1,11 @@
+{
+  "name": "differences",
+  "version": "1.0.0",
+  "description": "returns diffs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joseph Finlayson",
+  "license": "MIT"
+}
